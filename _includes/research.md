@@ -1,8 +1,10 @@
 <!-- ## Research   -->
 
-### Selected Works in Progress
-*Rational Learning as a Cause of War* (with Michael Gibilisco and Alexander Hirsch)
+### Works in Progress
+"Rational Learning as a Cause of War'' (with Michael Gibilisco and Alexander Hirsch)
 - to be presented at MPSA 2026
+
+"Unveiling Preference Heterogeneity from Survey Experiments''
 <!-- ### Working Papers -->
 
 <!-- *Battle Diffusion* 
