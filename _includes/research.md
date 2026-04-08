@@ -1,10 +1,10 @@
 <!-- ## Research   -->
 
 ### Works in Progress
-"Rational Learning as a Cause of War'' (with Michael Gibilisco and Alexander Hirsch)
-- to be presented at MPSA 2026
+"Learning When to Fight" (with Michael Gibilisco and Alexander Hirsch)
+- to be presented at MPSA 2026 & APSA 2026
 
-"Unveiling Preference Heterogeneity from Survey Experiments''
+"Unveiling Preference Heterogeneity from Conjoint Survey Experiments"
 <!-- ### Working Papers -->
 
 <!-- *Battle Diffusion* 
