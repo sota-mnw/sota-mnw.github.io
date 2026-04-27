@@ -1,8 +1,10 @@
 <!-- ## Research   -->
 
-### Works in Progress
-"Learning When to Fight" (with Michael Gibilisco and Alexander Hirsch)
-- to be presented at MPSA 2026 & APSA 2026
+### Working Paper
+["Learning Before Crisis Bargaining"](/assets/files/GHM2604_lbcb.pdf) (with [Michael Gibilisco](https://michaelgibilisco.com/index.html) and [Alexander Hirsch](https://www.its.caltech.edu/~avhirsch/))
+- Presentations: MPSA 2026 & APSA 2026
+
+### Work in Progress
 
 "Unveiling Preference Heterogeneity from Conjoint Survey Experiments"
 <!-- ### Working Papers -->
