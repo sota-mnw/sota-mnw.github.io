@@ -7,6 +7,7 @@
 ### Work in Progress
 
 "Unveiling Preference Heterogeneity from Conjoint Survey Experiments"
+- Presentation: [JSQPS](https://sites.google.com/view/jsqps) 2026 Summer
 <!-- ### Working Papers -->
 
 <!-- *Battle Diffusion* 
