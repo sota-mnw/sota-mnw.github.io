@@ -2,6 +2,11 @@
 
 One-page Jekyll site for `sota-mnw.github.io`.
 
+## Edit Content
+
+- Update homepage research text in `_includes/research.md`.
+- Replace the CV PDF at `assets/files/cv_minowa.pdf`.
+
 ## Preview Locally
 
 ```sh

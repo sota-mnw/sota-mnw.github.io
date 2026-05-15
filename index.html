@@ -53,19 +53,8 @@
         {% endif %}
       </header>
       <section>
-        <p>Hello! I am a 2nd year PhD student in Social Science at Caltech. I was previously at UTokyo. I work on political economy.</p>
-
-        <h3>Working Paper</h3>
-        <p><a href="{{ "/assets/files/GHM2604_lbcb.pdf" | relative_url }}">"Learning Before Crisis Bargaining"</a> (with <a href="https://michaelgibilisco.com/index.html">Michael Gibilisco</a> and <a href="https://www.its.caltech.edu/~avhirsch/">Alexander Hirsch</a>)</p>
-        <ul>
-          <li>Presentations: MPSA 2026 &amp; APSA 2026</li>
-        </ul>
-
-        <h3>Work in Progress</h3>
-        <p>"Unveiling Preference Heterogeneity from Conjoint Survey Experiments"</p>
-        <ul>
-          <li>Presentation: <a href="https://sites.google.com/view/jsqps">JSQPS</a> 2026 Summer</li>
-        </ul>
+{% capture research_content %}{% include research.md %}{% endcapture %}
+{{ research_content | markdownify }}
       </section>
     </div>
   </body>
